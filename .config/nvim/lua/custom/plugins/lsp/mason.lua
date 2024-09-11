@@ -43,6 +43,7 @@ return {
 				"black", -- python formatter
 				"ruff",
 				"eslint_d",
+				"debugpy",
 			},
 		})
 	end,
