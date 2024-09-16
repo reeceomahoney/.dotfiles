@@ -26,3 +26,5 @@
 # TODO
 
 - [ ] Make a setup script
+- [ ] Add bashrc
+- [ ] Add zshrc
