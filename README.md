@@ -22,3 +22,7 @@
    ```sh
    stow .
    ```
+
+# TODO
+
+- [ ] Make a setup script
