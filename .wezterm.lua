@@ -11,7 +11,7 @@ config.font_size = 12
 
 config.enable_tab_bar = false
 
-config.window_decorations = "RESIZE"
+config.window_decorations = "TITLE | RESIZE"
 
 config.color_scheme = 'Solarized (dark) (terminal.sexy)'
 
