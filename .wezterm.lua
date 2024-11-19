@@ -15,7 +15,7 @@ config.window_decorations = "TITLE | RESIZE"
 
 config.color_scheme = 'Solarized (dark) (terminal.sexy)'
 
-config.window_background_opacity = 0.8
+config.window_background_opacity = 1.0
 config.macos_window_background_blur = 10
 
 -- and finally, return the configuration to wezterm
