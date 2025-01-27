@@ -15,6 +15,7 @@ return {
 			},
 			-- change folder arrow icons
 			renderer = {
+				group_empty = true, -- Enable compact folders
 				indent_markers = {
 					enable = true,
 				},
