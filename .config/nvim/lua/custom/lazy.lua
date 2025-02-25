@@ -20,3 +20,5 @@ require("lazy").setup({ { import = "custom.plugins" }, { import = "custom.plugin
 		notify = false,
 	},
 })
+
+vim.api.nvim_set_keymap("n", "<leader>lu", ":Lazy update<CR>", { noremap = true, silent = true })
