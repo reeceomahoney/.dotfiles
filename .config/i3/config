@@ -190,5 +190,5 @@ bar {
         status_command i3status
 }
 
-# suspend
-bindsym $mod+shift+period exec systemctl suspend
+# lock
+bindsym $mod+Ctrl+l exec --no-startup-id i3lock && sleep 5 && xset dpms force off
