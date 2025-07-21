@@ -5,7 +5,7 @@ return {
     opts = {
       scroll = { enabled = false },
       notifier = { enabled = false },
-      picker = { sources = { files = { ignored = true } } },
+      picker = { sources = { files = { ignored = true }, explorer = { ignored = true } } },
     },
   },
   { "github/copilot.vim" },
