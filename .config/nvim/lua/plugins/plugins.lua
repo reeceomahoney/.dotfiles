@@ -1,4 +1,5 @@
 return {
+  { "christoomey/vim-tmux-navigator" },
   { "akinsho/bufferline.nvim", enabled = false },
   {
     "snacks.nvim",
